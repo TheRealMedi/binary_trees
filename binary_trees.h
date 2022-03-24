@@ -9,9 +9,6 @@
 /* MAX MACRO */
 #define MAX(a, b) ((a) > (b) ? (a) : (b))
 
-/* HEIGHT MACRO */
-#define binary_tree_height(P) _height(P)
-
 /* basic binary tree */
 
 /**
